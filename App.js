@@ -33,7 +33,7 @@ export default function App() {
                   size={24}
                   color={tintColor}
                   onPress={() => {
-                    console.log("pressed adding button!!!!!!");
+                    // console.log("pressed adding button!!!!!!");
                     navigation.navigate("AddPlace");
                   }}
                 />
